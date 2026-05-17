@@ -76,7 +76,7 @@ sql-data-warehouse-project/
 ├── README.md
 └── requirements.txt
 
-
+---
 
 📖 Documentation
 
@@ -93,6 +93,8 @@ SQL Server Express
 SQL Server Management Studio (SSMS)
 Draw.io
 GitHub
+
+
 🛡️ License
 
 This project is licensed under the MIT License.
