@@ -1,1 +1,2 @@
-git rm path/to/file.txt
+git commit -m "Remove file from repository"
+git push origin <your-branch-name>
